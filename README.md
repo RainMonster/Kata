@@ -1,0 +1,1 @@
+Kata practice, primarily from codewars.com
